@@ -1,0 +1,10 @@
+.form-group{
+  margin-bottom: 35px;
+}
+input:focus{
+  outline: none;
+  border:none;
+}
+::placeholder{
+  text-align: center;
+}
